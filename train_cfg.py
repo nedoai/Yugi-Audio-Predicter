@@ -1,0 +1,9 @@
+hop_length = 512
+n_fft = 2048
+n_mfcc = 13
+duration = 30
+sample_rate = 16000
+audio_dir = r'small_data'
+batch_size = 64
+epochs = 10
+learning_rate = 0.0001
