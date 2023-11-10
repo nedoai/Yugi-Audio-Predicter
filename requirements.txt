@@ -1,0 +1,5 @@
+tensorflow==2.9.0
+keras==2.9.0
+librosa==0.10.1
+numpy==1.24.4
+audiomentations==0.33.0
